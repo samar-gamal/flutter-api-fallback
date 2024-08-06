@@ -6,7 +6,6 @@ class AppTheme {
   static ThemeData lightTheme = ThemeData(
     // appBarTheme: const AppBarTheme(color: Colors.green),
 
-
     primaryColor: AppColors.primaryColor,
 
     // textTheme: const TextTheme(
