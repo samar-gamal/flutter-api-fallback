@@ -1,10 +1,10 @@
 // ignore_for_file: non_constant_identifier_names
 
-const String USER_COLLECTION = 'users';
-
-const String TEAMS_COLLECTION = 'teams';
-const String SUB_TEAMS_COLLECTION = 'sub_teams';
-const String TEAM_MEMBERS_COLLECTION = 'team_members';
-const String BASE_URL = 'https://fakestoreapi.com/';
-const String PRIM_URL = 'pro';
-const String SECO_URL = 'products';
+const String BASE_URL ='https://app.krokplus.com/api/v1';
+const String LANG_URL='/questions/languages/';
+const String SPECI_URL='/questions/specificities/';
+const String LEVEL_URL='/questions/levels/';
+const String YEAR_URL='/questions/years/';
+const String SUBJECT_URL='/questions/subjects/';
+const String SYST_URL='/questions/systems/';
+const String TOPIC_URL='/questions/topics/';
